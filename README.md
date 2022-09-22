@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 <h3 align="center">A Passionate Web and Software Developer from Bangladesh</h3>
 
-<img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761146d2b1e16178fee87eecd19b38c264e1dbabf5d4&amp;rid=giphy.gif&amp;ct=g" style="width: 350px; ">
+
 <img align="right" alt="imashiqe" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=790b761146d2b1e16178fee87eecd19b38c264e1dbabf5d4&amp;rid=giphy.gif&amp;ct=g" style="width: 350px; ">
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imashiqe&label=Profile%20views&color=0e75b6&style=flat" alt="imashiqe" /> </p>
