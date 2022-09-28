@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamashiqe" target="blank"><img src="https://img.shields.io/twitter/follow/iamashiqe?logo=twitter&style=for-the-badge" alt="iamashiqe" /></a> </p>
 
-- 🔭 I’m currently working on [365bazar](https://365bazar.com/)
+- 🔭 I’m currently working on [Gnexer](https://gnexer.com/)
 
 - 🌱 I’m currently learning **React**
 
@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **imashiqe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17mwDktTI16eApQub-50EBNQTqL1rtviD/view?usp=sharing](https://drive.google.com/file/d/17mwDktTI16eApQub-50EBNQTqL1rtviD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wdzlgQDqlTURSFyJr1lKGXKZG7wDqG5f/view?usp=sharing)
 
 - ⚡ Fun fact **I am cool**
 
