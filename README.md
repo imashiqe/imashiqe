@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **imashiqe@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wdzlgQDqlTURSFyJr1lKGXKZG7wDqG5f/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wdzlgQDqlTURSFyJr1lKGXKZG7wDqG5f/view?usp=sharing]
 
 - ⚡ Fun fact **I am cool**
 
