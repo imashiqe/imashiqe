@@ -1,4 +1,4 @@
-<img    align="center"  width="840" src=""https://i.ibb.co/wcdVwxK/asiqur.jpg" alt="imashiqe"></a>
+<img    align="center"  width="840" src="https://i.ibb.co/wcdVwxK/asiqur.jpg" alt="imashiqe"></a>
 
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 <h3 align="center">A Passionate Web and Software Developer from Bangladesh</h3>
