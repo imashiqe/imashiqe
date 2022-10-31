@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [Gnexer](https://gnexer.com/)
+- 👯 I’m looking to collaborate on Open Source Project
 
 - 👨‍💻 All of my projects are available at [https://imashiqe.com/](https://imashiqe.com/)
 
