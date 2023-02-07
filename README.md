@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Gnexer](https://gnexer.com/)
 
-- 🌱 I’m currently learning ** Redux**
+- 🌱 I’m currently learning ** Socket.io**
 
 - 👯 I’m looking to collaborate on Open Source Project
 
