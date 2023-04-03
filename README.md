@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **MEARN,WEB DEVELOPMENT ,SEO**
 
-- 📫 How to reach me **imashiqe@gmail.com**
+- 📫 How to reach me **imashiqe@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sUsT6JukAVwR18HrLCZPM-OflL_VeIHN/view?usp=share_link]
 
