@@ -1,7 +1,7 @@
 <img    align="center"  width="840" src="https://i.ibb.co/wcdVwxK/asiqur.jpg" alt="imashiqe"></a>
 
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
-<h3 align="center">A Passionate Web and Software Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Web and Software Developer </h3>
 
 
 <img align="right" alt="imashiqe" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
