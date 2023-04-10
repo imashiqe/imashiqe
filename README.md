@@ -19,17 +19,13 @@
 
 - 👯 I’m looking to collaborate on Open Source Project
 
-- 👨‍💻 All of my projects are available at [https://imashiqe.com/](https://imashiqe.com/)
-
-- 📝 I regularly write articles on [https://blog.imashiqe.com/](https://blog.imashiqe.com/)
-
-- 💬 Ask me about **MEARN,WEB DEVELOPMENT ,SEO**
+- 💬 Ask me about **Javascript , C++ , Java **
 
 - 📫 How to reach me **imashiqe@outlook.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sUsT6JukAVwR18HrLCZPM-OflL_VeIHN/view?usp=share_link]
 
-- ⚡ Fun fact **Good Sense Humor**
+- ⚡ Fun fact **Good sense of humors**
 
 
 ## 🌐 Socials:
