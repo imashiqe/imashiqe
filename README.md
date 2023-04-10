@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sUsT6JukAVwR18HrLCZPM-OflL_VeIHN/view?usp=share_link]
 
-- ⚡ Fun fact **I am cool**
+- ⚡ Fun fact **Good Sense Humor**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -41,7 +41,7 @@
 <a href="https://dev.to/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/imashiqe" height="30" width="40" /></a>
 <a href="https://twitter.com/imashiqee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamashiqe" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/imashiqe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imashiqe/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/imashiqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imashiqe" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/imashiqe](https://stackoverflow.com/users/15789342/ashiqur-rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imashiqe" height="30" width="40" /></a>
 <a href="https://www.facebook.com/imashiqee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imashiqee" height="30" width="40" /></a>
 <a href="https://instagram.com/imashiqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imashiqe" height="30" width="40" /></a>
 <a href="https://hashnode.com/@imashiqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imashiqe" height="30" width="40" /></a>
