@@ -1,10 +1,10 @@
-<img    align="center"  width="840" src="https://i.ibb.co/wcdVwxK/asiqur.jpg" alt="imashiqe"></a>
+
 
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 <h3 align="center">A Passionate Web and Software Developer </h3>
 
 
-<img align="right" alt="imashiqe" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imashiqe&label=Profile%20views&color=0e75b6&style=flat" alt="imashiqe" /> </p>
