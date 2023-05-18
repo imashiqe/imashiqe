@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 <h3 align="center">A Passionate Web and Software Developer </h3>
 
-
+<a href="https://app.daily.dev/imashiqe"><img src="https://api.daily.dev/devcards/bfee3ac3e3f046cf832acf7562d0673b.png?r=w0f" width="400" alt="Ashiqur Rahman's Dev Card"/></a>
 
 </br>
 
