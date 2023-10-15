@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning ** DevOps **
 
-- 👯 I’m looking to collaborate on Open Source Project
+- 👯 I’m looking to collaborate on an open-source Project
 
-- 💬 Ask me about **Javascript ,Typescript, C , C++ , Java **
+- 💬 Ask me about **Javascript ,Typescript, C , C++ , Java, Python **
 
 - 📫 How to reach me **imashiqe@outlook.com**
 
