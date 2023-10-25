@@ -56,7 +56,7 @@
 ---
 
 <p>Hi I am Ashiqur Rahman, a dedicated and skilled computer science and engineering student at Dhaka International University. With a passion for digital marketing and web development, I have acquired a wide range of skills and expertise in various technologies.
-I am holding a certificate from Google Digital Garage demonstrating proficiency in digital marketing.
+I hold a certificate from Google Digital Garage demonstrating proficiency in digital marketing.
 <br/>
 Additionally, 
 At Creative IT Institute, I have completed comprehensive training in full-stack web development, including HTML, CSS, Bootstrap, WordPress, and PHP Laravel. With hands-on experience, I successfully developed and implemented Laravel e-commerce projects.
