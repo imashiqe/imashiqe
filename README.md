@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on an open-source Project
 
-- 💬 Ask me about **Javascript ,Typescript, C , C++ , Java, Python **
+- 💬 Ask me about ** C , C++ , Java, Python ,Javascript ,Typescript,**
 
 - 📫 How to reach me **imashiqe@outlook.com**
 
