@@ -54,14 +54,5 @@
 
 ---
 
-<p>Hi I am Ashiqur Rahman, a dedicated and skilled computer science and engineering student at Dhaka International University. With a passion for digital marketing and web development, I have acquired a wide range of skills and expertise in various technologies.
-I hold a certificate from Google Digital Garage demonstrating proficiency in digital marketing.
-<br/>
-Additionally, 
-At Creative IT Institute, I have completed comprehensive training in full-stack web development, including HTML, CSS, Bootstrap, WordPress, and PHP Laravel. With hands-on experience, I successfully developed and implemented Laravel e-commerce projects.
-Furthermore, 
-I have a strong foundation in server installation and maintenance, having completed a workshop on the subject at the BASIS Institute of Technology & Management (BITM). I am well-versed in MERN stack development, including JavaScript, Tailwind CSS, ReactJS, Redux, Next.js, Node.js, MongoDB, React Native, Express.js, and know about AWS, Docker, Digital Ocean, and TypeScript.
-Notably, I have completed a university management project, showcasing proficiency in backend development and utilizing various technologies. With a comprehensive skill set and a drive for continuous learning, I am well-equipped to take on challenging projects and deliver high-quality results.
-  
-With a strong educational background and a diverse range of technical skills, I am poised to make a significant impact in the fields of digital marketing, web development, and server management. As an ambitious and dedicated individual, I am continuously expanding my knowledge and embracing new technologies to stay ahead of the rapidly evolving industry.</p>
+
 
