@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **imashiqe@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KzujTkY882y5W4NmFI-WFRRoIXZSgorB/view?usp=share_link]
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **Good sense of humors**
 
