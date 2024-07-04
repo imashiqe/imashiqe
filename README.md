@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
-<h3 align="center">🚀Software Engineer |  Innovative Problem Solver 🤖 </h3>
+<h3 align="center">🚀Software Engineer | Problem Solver 🤖 </h3>
 
 
 
