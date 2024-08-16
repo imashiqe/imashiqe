@@ -24,7 +24,6 @@
 </p>
 </br>
 
-<p align="center"> <a href="https://twitter.com/imashiqee" target="blank"><img src="https://img.shields.io/twitter/follow/imashiqee?logo=twitter&style=for-the-badge" alt="imashiqee" /></a> </p>
 
 
 - 🔭 I’m currently working on [Tantsoft](https://tantsoft.com/)
