@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  I'm a software engineer with a 4-year journey in tech, passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in JavaScript, NodeJS, ExpressJS, NestJS, SQL, NoSQL, AWS, GCP, Docker, Kubernetes, and more.
+  I'm a software engineer with a 4-year journey in tech, passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in JavaScript, NodeJS, ExpressJS, Reactjs, React Native, Android , IOS, Mac OS , Windows OS, Nextjs, SQL, NoSQL, AWS, GCP, Docker, Kubernetes, and more.
 </p>
 </br>
 
