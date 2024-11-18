@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  I'm a software engineer with a 4-year tech journey. I'm passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in C, C++, PHP, Java, JavaScript, NodeJS, ExpressJS, Reactjs, React Native, Android, IOS, Nextjs, PRISMA, WebRTC, PostgreSQL, Mysql, NoSQL, MongoDB, AWS, Docker, Nginx, and more.
+  I'm a software engineer with a 4-year tech journey. I'm passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in C, C++,  JavaScript, Typescript , NodeJS, ExpressJS, Reactjs, React Native, Android, IOS, Nextjs, PRISMA, WebRTC, PostgreSQL, Mysql, NoSQL, MongoDB, AWS, Docker, Nginx, and more.
 </p>
 </br>
 
