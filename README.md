@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  I'm a software engineer with a 4-year journey in tech, passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in JavaScript, NodeJS, ExpressJS, Reactjs, React Native, Android, IOS, Mac OS, Windows OS, Nextjs, SQL, NoSQL, AWS, GCP, Docker, Kubernetes, and more.
+  I'm a software engineer with a 4-year tech journey. I'm passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in C, C++, PHP, Java, JavaScript, NodeJS, ExpressJS, Reactjs, React Native, Android, IOS, Nextjs, PRISMA, WebRTC, PostgreSQL, Mysql, NoSQL, MongoDB, AWS, Docker, Nginx, and more.
 </p>
 </br>
 
@@ -40,7 +40,7 @@
 
 - ⚡ Fun fact **Good sense of humors**
 
-<a href="https://ibb.co/GtCz0Cx"><img src="https://i.ibb.co/VQMftMj/Untitled-1.jpg" alt="Untitled-1" align="center" border="0"></a>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/imashiqe) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/imashiqe) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/imashiqee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imashiqe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/imashiqe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@imashiqe) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/imashiqe) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/imashiqe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/imashiqe) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/imashiqe) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@imashiqe) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/imashiqe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imashiqee) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tantsoft) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/imashiqe) 
