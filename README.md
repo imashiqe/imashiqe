@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  I'm a software engineer with a 4-year tech journey. I'm passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in C, C++,  JavaScript, Typescript , NodeJS, ExpressJS, Reactjs, React Native, Android, IOS, Nextjs, PRISMA, WebRTC, PostgreSQL, Mysql, NoSQL, MongoDB, AWS, Docker, Nginx, and more.
+  I'm a software engineer with a 4-year tech journey. I'm passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in C, C++,  JavaScript, Typescript, NodeJS, ExpressJS, Reactjs, React Native, Android, IOS, Nextjs, PRISMA, WebRTC, PostgreSQL, Mysql, NoSQL, MongoDB, AWS, Docker, Nginx, and more.
 </p>
 </br>
 
@@ -32,9 +32,9 @@
 
 - 👯 I’m looking to collaborate on an open-source Project
 
-- 💬 Ask me about ** C , C++ , Java, Javascript ,Typescript,**
+- 💬 Ask me about  C , C++ , Java, Javascript ,Typescript,
 
-- 📫 How to reach me **imashiqe@outlook.com**
+- 📫 How to reach me <a href="mailto:imashiqe@gmail.com">Send email</a>
 
 - 📄 Know about my experiences 
 
@@ -71,7 +71,7 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
+
 
 
 
