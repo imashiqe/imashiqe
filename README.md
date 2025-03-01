@@ -28,11 +28,11 @@
 
 - 🔭 I’m currently working on [Tantsoft](https://tantsoft.com/)
 
-- 🌱 I’m currently learning ** DevOps **
+- 🌱 I’m currently learning Cross App Development 
 
 - 👯 I’m looking to collaborate on an open-source Project
 
-- 💬 Ask me about  C , C++ , Java, Javascript ,Typescript,
+- 💬 Ask me about  C , C++ , Java, Javascript ,Typescript, Dart
 
 - 📫 How to reach me <a href="mailto:imashiqe@gmail.com">Send email</a>
 
