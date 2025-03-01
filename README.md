@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on [Tantsoft](https://tantsoft.com/)
 
-- 🌱 I’m currently learning Cross App Development 
+- 🌱 I’m currently learning Cross Platform App Development 
 
 - 👯 I’m looking to collaborate on an open-source Project
 
