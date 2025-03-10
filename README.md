@@ -53,6 +53,12 @@
 
 # 📊 GitHub Stats:
 
+<a href="https://github.com/connor9994/GitHub-Language-Stats">
+<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/connor9994/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Connor9994)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imashiqe&" alt="imashiqe" />
