@@ -12,7 +12,7 @@ I'm a software engineer with **4 years** of experience in **open-source developm
 - 🤝 **Looking for:** Open-source collaboration
 - 💬 **Ask me about:** `C`, `C++`, `Java`, `JavaScript`, `TypeScript`, `Dart`
 - 📫 **Reach me at:** [Email me](mailto:imashiqe@gmail.com)
-- 📄 **My Resume:** [View Here](#) (Add link)
+- 📄 **My Resume:** [View Here](#) 
 
 ---
 
@@ -60,7 +60,6 @@ I'm a software engineer with **4 years** of experience in **open-source developm
 
 ## 📊 GitHub Stats:
 ![Profile Views](https://komarev.com/ghpvc/?username=imashiqe&color=blue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imashiqe&layout=compact&theme=tokyonight)
 
 
 
