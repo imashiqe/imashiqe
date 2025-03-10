@@ -54,13 +54,13 @@ I'm a software engineer with **4 years** of experience in **open-source developm
 
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?imashiqe=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?imashiqe=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&margin-w=5)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?imashiqe=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&margin-w=5)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?imashiqe=YOUR_GITHUB_USERNAME&color=blue)
 
 
 
