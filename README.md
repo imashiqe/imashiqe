@@ -25,7 +25,7 @@ I'm a software engineer with **4 years** of experience in **open-source developm
 
 ---
 
-### 🛠️ Tech Stack:
+
 ### 🛠️ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -59,10 +59,9 @@ I'm a software engineer with **4 years** of experience in **open-source developm
 
 
 ## 📊 GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imashiqe&layout=compact&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=imashiqe&color=blue)
-![Total Commits](https://github-readme-streak-stats.herokuapp.com/?user=imashiqe&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imashiqe&layout=compact&theme=tokyonight)
+
 
 
 
