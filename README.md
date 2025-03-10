@@ -55,12 +55,8 @@ I'm a software engineer with **4 years** of experience in **open-source developm
 ## 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imashiqe&layout=compact&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imashiqe&show_icons=true&theme=radical)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=imashiqe&theme=dracula&no-frame=true&margin-w=5)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=imashiqe&color=blue)
+![Total Commits](https://github-readme-streak-stats.herokuapp.com/?user=imashiqe&theme=radical)
 
 
 
