@@ -23,6 +23,9 @@ I'm a software engineer with **4 years** of experience in **open-source developm
   <a href="https://medium.com/@imashiqe" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
+ <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=imashiqe&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+
 ---
 
 
