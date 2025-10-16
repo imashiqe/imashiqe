@@ -2,15 +2,10 @@
 
 ### 🚀 Software Engineer (Open for Offers 😉)
 
-I'm a software engineer with **4 years** of experience in **open-source development, mentoring, and building scalable applications**. Passionate about driving innovation, I share insights through **[Medium](https://medium.com/@imashiqe)** articles and work on **cutting-edge technologies** like **Node.js, React, Next.js, WebRTC, Docker, and AWS**.
 
 ---
 
 ### 🔥 What I Do:
-- 💻 **Currently working at:** [Tantsoft](https://tantsoft.com/)
-- 🌱 **Currently learning:** Cross-Platform App Development
-- 🤝 **Looking for:** Open-source collaboration
-- 💬 **Ask me about:** `C`, `C++`, `Java`, `JavaScript`, `TypeScript`, `Dart`
 - 📫 **Reach me at:** [Email me](mailto:imashiqe@gmail.com)
 - 📄 **My Resume:** [View Here](#) 
 
