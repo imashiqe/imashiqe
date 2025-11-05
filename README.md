@@ -7,7 +7,7 @@
 
 ### 🔥 What I Do:
 - 📫 **Reach me at:** [Email me](mailto:imashiqe@gmail.com)
-- 📄 **My Resume:** [View Here](#) 
+- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1aTIamDOBYE-hyUB3_T-NDV0fpIlCUh-o/view?usp=sharing) 
 
 ---
 
